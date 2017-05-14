@@ -1,0 +1,8 @@
+{
+  "name": "frameloop",
+  "version": "1.0.0",
+  "main": "./lib/FrameLoop.js",
+  "repository": "https://github.com/wuww5511/frameLoop.git",
+  "author": "wuweiwei <wuww5511@126.com>",
+  "license": "MIT"
+}
